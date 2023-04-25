@@ -1,0 +1,15 @@
+Início Algoritmo
+Pegar a bolsa
+Colocar receita médica na bolsa
+Colocar cartão de crédito na bolsa
+Pegar chaves de casa
+Sair de casa e trancar o portão
+Caminha até a farmácia mais próxima
+Ia até o balcão da farmácia
+Mostrar a receita de remédios
+Aguardar que todos os remédios sejam entregues
+Pegar os remédios e ir até o caixa
+Realizar o pagamento
+Colocar os remédios dentro da sacola
+Pegar a sacola
+Fim Algoritmo

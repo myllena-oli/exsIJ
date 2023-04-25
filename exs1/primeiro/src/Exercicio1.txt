@@ -1,0 +1,17 @@
+Início Algoritmo
+Pegar a panela
+Colocar 1 Litro de água na panela
+Colocar panela na boca do fogão
+Ligar a boca do fogão em que a panela está
+Esperar a água ferver
+Desligar a boca do fogão em que a panela está
+Pegar o coador de café
+Colocar 4 colheres de sopa de café no coador
+Colocar o coador no suporte de coador
+Colocar garrafa de café embaixo do coador
+Abrir garrafa de café
+Pegar panela
+Passar água que está na panela para o coador
+Aguardar toda a água passar para a garrafa de café
+Fechar garrafa de café
+Fim Algoritmo

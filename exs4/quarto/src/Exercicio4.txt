@@ -1,0 +1,14 @@
+Início Algoritmo
+Acordar
+Tomar Banho
+Se arrumar
+Tomar café da manhã
+Descansar
+Organizar a mesa de trabalho
+Ligar o computador
+Conectar o headphone no computador
+Abrir o navegador
+Conectar o Livepass
+Abrir o Google Calendar
+Entrar em uma reunião
+Fim Algoritmo

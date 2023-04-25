@@ -1,0 +1,23 @@
+Início Algoritmo
+Colocar liquidificador na bancada
+Ligar liquidificador na tomada
+Colocar dois ovos no liquidificador
+Ligar liquidificador
+Bater os ovos por 5 minutos
+Acrescentar no liquidificador uma xícara (chá) de leite
+Acrescentar no liquidificador uma xícara (chá) de óleo
+Acrescentar no liquidificador duas xícaras (chá) de farinha de trigo
+Acrescentar no liquidificador uma xícara (chá) de chocolate ou
+achocolatado
+Acrescentar no liquidificador uma xícara (chá) de açúcar
+Aguardar 5 minutos
+Acrescentar no liquidificador uma colher (sopa) de fermento em pó
+Aguardar 30 segundos
+Desligar liquidificador
+Pegar uma forma de bolo tamanho média
+Untar e enfarinhar a forma
+Colocar conteúdo do liquidificador na forma
+Pré aquecer forno
+Colocar a forma no forno pré aquecido, por 45 minutos.
+Com um pano na mão, retirar bolo pronto do forno.
+Fim Algoritmo
